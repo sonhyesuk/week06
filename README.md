@@ -38,13 +38,14 @@
 **게시판(관리자)**
 1. 글 등록 
 - [ ] 게시판 페이지 만들기 ★
-- [ ] 드롭다운 목록 만들기-사용자 ID(이름), 제목, 목표 ★  
+- [ ] 드롭다운 목록 만들기-사용자 ID(이름), 제목, 목표, 날짜 추가★  
         https://getbootstrap.com/docs/4.5/components/dropdowns/
 - [ ] 내용 작성 textarea & 사진, 파일 첨부 ★
        (Supported elements) https://getbootstrap.com/docs/4.5/components/forms/
    
 2. 회원 리스트 및 회원관리(수정)
-- [ ] 회원리스트 페이지 (이전, 다음) ★
+- [ ] 회원리스트 페이지 (이전, 다음) ★  
+     (Working with icons) https://getbootstrap.com/docs/4.5/components/pagination/
 - [ ] 회원 선택시 스터디 내역 확인(mypage와 같은 페이지)
    
 
