@@ -21,14 +21,18 @@
 - [ ] ID, PW 찾기
 
 2. 회원가입
-- [ ] 회원가입 페이지 만들기 ★
+- [▲] 회원가입 페이지 만들기 ★ 
    아이디(중복여부)
    패스워드, 패스워드 확인
    이메일(유효성 검사)
    휴대폰
    성별
-   주소 api 사용 참고 사이트 https://m.blog.naver.com/PostView.nhn?blogId=elriot&logNo=221407141213&proxyReferer=https:%2F%2Fwww.google.com%2F
    기타 동의 여부
+   
+   *참고 사이트
+   https://huskdoll.tistory.com/104  ---퍼와서 고칠 것
+   주소 api 사용  https://m.blog.naver.com/PostView.nhn?blogId=elriot&logNo=221407141213&proxyReferer=https:%2F%2Fwww.google.com%2F
+   부트스트랩  
    (Form row)  https://getbootstrap.com/docs/4.5/components/forms/
    (Forms)비밀번호 찾기, 회원가입 https://getbootstrap.com/docs/4.5/components/dropdowns/
 
