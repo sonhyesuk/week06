@@ -60,6 +60,7 @@
 2. 회원 리스트 및 회원관리(수정)
 - [ ] 회원리스트 페이지 (이전, 다음) ★  
      (Working with icons) https://getbootstrap.com/docs/4.5/components/pagination/
+     (아이디, pw, 이름, 이메일, 휴대폰, 성별, 주소)
 - [ ] 회원 선택시 스터디 내역 확인(mypage와 같은 페이지)
    
 
