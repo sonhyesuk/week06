@@ -4,17 +4,22 @@
 ## 필수
 - [x] 메인 페이지 (index.html)
 - [x] 로그인 페이지 (login.html) 
-- [x] 회원가입 페이지(join.html) - 기능 만들어 보기 (나홀로 메모장 참고) ★★★★★
 - [x] re회원가입 페이지(join.html) 다시 만들기 - 기능 만들어 보기 (모두의 책 리뷰 참고) ★★★★★
-- [ ] 코드, 학습목표, 대제목 등의 관리자 등록 페이지[셀렉트] ★★★★★
+- [x] 코드, 학습목표, 대제목 등의 관리자 등록 페이지(ad_registerContent.html) [셀렉트] ★★★★★
        -코드 인풋박스 쓰고 대제목 누르면 코드와 대제목 쓸 수 있는 인풋박스, 소제목 누르면 코드와 대제목이 셀렉트로 된 소제목에 글 넣을 수 있는 인풋박스  
        -기능은 튜터님하고 !!
        -참고(JavaScript behavior) https://getbootstrap.com/docs/4.5/components/list-group/
        -    (vertical pills)  https://getbootstrap.com/docs/4.5/components/navs/
-- [x] 등록된 회원 리스트 페이지 
+- [x] 등록된 회원 리스트 페이지 ★★
+- [ ] 개별 학습내용 등록 페이지 (ad_registerObjStu.html) ★★★
 - [ ] [이전, 다음] 넣기 [!! 10페이지 정도만 보이게, 이전 다음 연결, 내림 차순 ](member_list.html)
+- [ ] 회원의 마이페이지[학습내용-날짜, 제목 썸네일 리스트로 정렬/ 내용 드롭다운]
 
-    
+## 2020.11.15 해야 할일
+
+
+
+
 
 ## 선택
 - [ ] 학생별 학습 목표 보기
