@@ -9,12 +9,16 @@
        -코드 인풋박스 쓰고 대제목 누르면 코드와 대제목 쓸 수 있는 인풋박스, 소제목 누르면 코드와 대제목이 셀렉트로 된 소제목에 글 넣을 수 있는 인풋박스  
        -기능은 튜터님하고 !!
 - [x] 등록된 회원 리스트 페이지 ★★
-- [ ] 개별 학습내용 등록 페이지 (ad_registerObjStu.html) ★★★
+- [x] 개별 학습내용 등록 페이지 (ad_registerObjStu.html) ★★★
 - [ ] [이전, 다음] 넣기 [!! 10페이지 정도만 보이게, 이전 다음 연결, 내림 차순 ](member_list.html)
-- [ ] 회원의 마이페이지[학습내용-날짜, 제목 썸네일 리스트로 정렬/ 내용 드롭다운]
+- [x] 회원의 마이페이지(mypage.html)[학습내용-날짜, 제목 썸네일 리스트로 정렬/ 내용 드롭다운]
+
 
 ## 2020.11.15 해야 할일
-
+- [ ] 도메인 구매
+- [ ] aws 서버 연결해보기
+- [ ] 학습목표 불러와서 디비에 
+- [ ] 로그인
 
 
 
@@ -31,14 +35,17 @@
 
 ### ===================================================
 *부트스트랩 참고
+ 페이징 : https://umg99.tistory.com/23
  달력 :https://getbootstrap.com/docs/4.5/content/reboot/?optionsRadios=option1
        https://jsonobject.tistory.com/181
+       https://programmer93.tistory.com/5
+       https://stackoverrun.com/ko/q/3603559
  ad_registerContent.html : (JavaScript behavior) https://getbootstrap.com/docs/4.5/components/list-group/
                             (vertical pills)  https://getbootstrap.com/docs/4.5/components/navs/
  
 ### 프로젝트
 **공통, html**
-* header, footer - 나눠서 import 하는 방법 찾기 ☆
+* header, footer, menu - 나눠서 import 하는 방법 찾기 ☆
 * 검색창
 
 **메인**
@@ -82,6 +89,7 @@
          - 한페이지 10개 목록 볼 수 있는 페이지 (이전, 다음 페이지) 
 - [ ] 내 정보 보기 페이지 ☆
 - [ ] 내 정보 수정
+- [ ] 회원의 마이페이지(mypage.html) -프린트 설정, jpg 이미지로 다운로드
 
 
 
