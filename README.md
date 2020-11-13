@@ -9,8 +9,10 @@
 - [ ] 코드, 학습목표, 대제목 등의 관리자 등록 페이지[셀렉트] ★★★★★
        -코드 인풋박스 쓰고 대제목 누르면 코드와 대제목 쓸 수 있는 인풋박스, 소제목 누르면 코드와 대제목이 셀렉트로 된 소제목에 글 넣을 수 있는 인풋박스  
        -기능은 튜터님하고 !!
+       -참고(JavaScript behavior) https://getbootstrap.com/docs/4.5/components/list-group/
+       -    (vertical pills)  https://getbootstrap.com/docs/4.5/components/navs/
 - [x] 등록된 회원 리스트 페이지 
-- [ ] [이전, 다음] 넣기 (member_list.html)- 번호 넣는 방법 찾기, 내림차순
+- [ ] [이전, 다음] 넣기 [!! 10페이지 정도만 보이게, 이전 다음 연결, 내림 차순 ](member_list.html)
 
     
 
@@ -26,6 +28,9 @@
 
 
 ### ===================================================
+*부트스트랩 참고
+ 달력 :https://getbootstrap.com/docs/4.5/content/reboot/?optionsRadios=option1
+ 
 ### 프로젝트
 **공통, html**
 * header, footer - 나눠서 import 하는 방법 찾기 ☆
